@@ -1,0 +1,42 @@
+#foto-1 {
+
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.texto-h2-A {
+
+  text-align: center;
+  color: palevioletred;
+
+}
+
+.texto-color-1 {
+
+  color: palevioletred;
+}
+
+.texto-P {
+
+  color: plum;
+  font-size: 15px;
+}
+
+.texto-P2 {
+  
+  color: plum;
+  font-size: 15px;
+}
+
+.texto-P3 {
+
+  color: plum;
+  font-size: 15px;
+}
+
+.texto-color-2 {
+
+  text-align: center;
+  color: palevioletred;
+}
